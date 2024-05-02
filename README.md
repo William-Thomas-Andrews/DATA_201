@@ -1,1 +1,1 @@
-This repository is for my work in my William and MAry DATA 201 class.
+This repository is for my work in my William and Mary DATA 201 class.
