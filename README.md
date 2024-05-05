@@ -1,4 +1,4 @@
-This repository is for my work in my William and Mary DATA 201 class.
+This repository is for my work in my DATA 201 - Intro to Data Science course at the College of William and Mary.
 
 Personal notation on my notebooks:
 
